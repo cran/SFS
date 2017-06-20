@@ -1,0 +1,17 @@
+4d6e7a4fce8a86174f687644a87bf4f0 *DESCRIPTION
+7d18ab2c1b2e453e35d46c3078f3656c *NAMESPACE
+b0f5271db5f1ad03785c56e775bac1e8 *R/RcppExports.R
+ea8bbff05a47051fdf24e738b1b03eda *R/SFS.R
+5610ee6e5159a534becbb0f17fd9bbf2 *README.md
+84e1ea36910fade20730a69a2cc75b89 *TODO
+a28e7f9ff1d1650bcbe483133ac07d47 *inst/extdata/list_130.txt
+c0d08d5db09422a3b52e8133ea13dfca *inst/extdata/tmp_R_19_diss.txt
+43c0c7a12e96b6c1303a057779b2f5c4 *inst/extdata/tmp_R_19_sim.txt
+bdeca63c65340b5efa31a806b6515f88 *man/SFS_read.Rd
+659122dffdfc7f66a25961344e6a3e99 *man/SFS_sfs.Rd
+a1e86627020c43852446a8e2c2141b3f *src/Makevars
+fdcb2e0c2502ed804ae55e75cf88055c *src/Makevars.win
+77d682884d65d0ab857c87c02a1a5c11 *src/RcppExports.cpp
+469b3152146fd8e7cf3d7cfb82e776f5 *src/SFSMatrix.cpp
+c1cfcbfcc734a6675706520af4e3d228 *src/SFSMatrix.h
+5bdf659f656f9ff82ab534a4c693b420 *src/rcpp_sfs.cpp
