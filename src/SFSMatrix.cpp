@@ -407,8 +407,8 @@ SFSMatrix::data_type SFSMatrix::isEpsilon_Robinson()
             tau = i;
         }
         else{
-            it--;
-            tau = it.row();
+            SpMat::iterator tmp = --it;
+            tau = tmp.row();
         }
         int rmn = std::max(0,tau-i); //rightmost vertex adjacent to vertex _tau_inv[i]
         IntVector row_i(rmn,0); //create row for vertex i
